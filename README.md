@@ -8,6 +8,8 @@
 2. Новые станции (те, которых нет в базе hh)
 3. Удаленные станции (те, которых нет в запросе)
 
+![verify_stations]( metro/screenshots/verify_stations.png )
+
 ### Пример
 
 На вход: `POST /api/v1/metro/verificate/`
