@@ -8,7 +8,7 @@
 2. Новые станции (те, которых нет в базе hh)
 3. Удаленные станции (те, которых нет в запросе)
 
-![Imgur](https://i.imgur.com/z6IXZiW.png)
+![Imgur1](https://i.imgur.com/gluedRx.png)
 
 ### Пример
 
